@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cross The Road", "Cross The Road\Cross The Road.csproj", "{A07AD4DE-844C-43F9-AF3A-1671B678FE76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A07AD4DE-844C-43F9-AF3A-1671B678FE76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07AD4DE-844C-43F9-AF3A-1671B678FE76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07AD4DE-844C-43F9-AF3A-1671B678FE76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07AD4DE-844C-43F9-AF3A-1671B678FE76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7A2025B-91C5-4801-8958-78B3D13FE100}
+	EndGlobalSection
+EndGlobal

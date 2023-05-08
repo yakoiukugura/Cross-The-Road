@@ -1,0 +1,10 @@
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Cross The Road\Cross The Road\bin\Debug\Cross The Road.exe.config
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Cross The Road\Cross The Road\bin\Debug\Cross The Road.exe
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Cross The Road\Cross The Road\bin\Debug\Cross The Road.pdb
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Cross The Road\Cross The Road\obj\Debug\Cross The Road.csproj.AssemblyReference.cache
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Cross The Road\Cross The Road\obj\Debug\Cross_The_Road.Form1.resources
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Cross The Road\Cross The Road\obj\Debug\Cross_The_Road.Properties.Resources.resources
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Cross The Road\Cross The Road\obj\Debug\Cross The Road.csproj.GenerateResource.cache
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Cross The Road\Cross The Road\obj\Debug\Cross The Road.csproj.CoreCompileInputs.cache
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Cross The Road\Cross The Road\obj\Debug\Cross The Road.exe
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Cross The Road\Cross The Road\obj\Debug\Cross The Road.pdb
